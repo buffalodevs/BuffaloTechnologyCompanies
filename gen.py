@@ -18,7 +18,7 @@ def gen():
                     f.write('| ' + company['location'])
                     f.write('| ' + company['industry'])
                     f.write('| ' + company['tech-stack'])
-                    if 'careers' in companies:
+                    if company['careers'] != None:
                         f.write('| ' + company['careers'])
                     else:
                         f.write('| ')
