@@ -10,5 +10,5 @@ Feel free to submit pull requests to add any companies.
 | Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | | |
 | Local Edge | Tonawanda | Advertising | Primarily Java, Some .NET | |
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, and Lagom | |
-| Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | |
+| Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Synacor | Buffalo | Advertising | PHP | |
