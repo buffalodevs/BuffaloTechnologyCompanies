@@ -11,4 +11,4 @@ Feel free to submit pull requests to add any companies.
 | Local Edge | Tonawanda | Advertising | Primarily Java, Some .NET | |
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, and Lagom | |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
-| Synacor | Buffalo | Advertising | PHP | |
+| Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | |
