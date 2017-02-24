@@ -14,14 +14,14 @@ def gen():
                 f.write('| Company | Location | Industry | Tech Stack | Careers |\n')
                 f.write('| ------- | -------- | -------- | ---------- | ------- |\n')
                 for company in companies:
-                    f.write('|' + company['name'])
-                    f.write('|' + company['location'])
-                    f.write('|' + company['industry'])
-                    f.write('|' + company['tech-stack'])
+                    f.write('| ' + company['name'])
+                    f.write('| ' + company['location'])
+                    f.write('| ' + company['industry'])
+                    f.write('| ' + company['tech-stack'])
                     if 'careers' in companies:
-                        f.write('|' + company['careers'])
+                        f.write('| ' + company['careers'])
                     else:
-                        f.write('|')
+                        f.write('| ')
                     f.write('\n')
         except Exception as e:
             print(e)
