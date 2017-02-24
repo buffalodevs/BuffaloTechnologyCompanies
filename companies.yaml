@@ -1,0 +1,51 @@
+companies:
+    - name: Liazon
+      location: Buffalo
+      industry: Benefits Broker Software (SAAS)
+      tech-stack: Primarily C#.NET
+      careers: ~
+    - name: Adian
+      location: Williamsville
+      industry: Digital Media/Ad Network
+      tech-stack: Java and PHP
+      careers: ~
+    - name: Algonquin Studio
+      location: Buffalo
+      industry: Consulting in Healthcare, Law, Accounting, Utilities
+      tech-stack: Primarily VB.NET
+      careers: ~
+    - name: Campus Labs
+      location: Buffalo
+      industry: Higher Ed Software
+      tech-stack: Primarily C#.NET
+      careers: ~
+    - name: Local Edge
+      location: Tonawanda
+      industry: Advertising
+      tech-stack: Primarily Java, some .NET
+      careers: ~
+    - name: PerkinElmer 
+      location: Buffalo
+      industry: Biotech/Pharma
+      tech-stack: Scala, Spark, & Lagom
+      careers: ~
+    - name: Pointman 
+      location: Buffalo
+      industry: Field Service Apps/ Professional Apps
+      tech-stack: NodeJS, Angular, .NET
+      careers: ~
+    - name: Synacor 
+      location: Buffalo
+      industry: ISP Portals, Advertising & Identity Management
+      tech-stack: Primarily PHP, with Perl, Node, Go & Java
+      careers: ~
+    - name: Utilant 
+      location: Buffalo
+      industry: Property Insurance
+      tech-stack: Primarily C#.NET
+      careers: ~
+    - name: Value Centric 
+      location: Orchard Park
+      industry: Data Management
+      tech-stack: Primarily ColdFusion
+      careers: ~
