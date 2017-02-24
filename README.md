@@ -6,9 +6,12 @@ Feel free to submit pull requests to add any companies.
 
 | Company | Location | Industry | Tech Stack | Careers |
 | ------- | -------- | -------- | ---------- | ------- |
-| Adiant | Williamsville | Digital Media/Ad Network | Java and PHP | |
+| Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | |
+| Campus Labs | Buffalo | Higher Ed Software | Primarily C#.NET | |
 | Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | | |
-| Local Edge | Tonawanda | Advertising | Primarily Java, Some .NET | |
-| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, and Lagom | |
+| Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | |
+| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | |
+| Utilant | Buffalo | Property Insurance | Primarily C#.NET | |
+| Value Centric | Orchard Park | Data Management | Primarily ColdFusion | |
