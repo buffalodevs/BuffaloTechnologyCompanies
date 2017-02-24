@@ -22,7 +22,7 @@ def gen():
                         f.write('| ' + company['careers'])
                     else:
                         f.write('| ')
-                    f.write('\n')
+                    f.write('|\n')
         except Exception as e:
             print(e)
             raise e
