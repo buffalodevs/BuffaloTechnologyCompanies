@@ -16,5 +16,6 @@ Feel free to submit pull requests to add any companies.
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | |
+| StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | |
 | Value Centric | Orchard Park | Data Management | Primarily ColdFusion | |
