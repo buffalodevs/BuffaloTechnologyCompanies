@@ -12,6 +12,7 @@ Feel free to submit pull requests to add any companies.
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | | |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | |
+| Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | |
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
