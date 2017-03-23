@@ -10,7 +10,8 @@ Feel free to submit pull requests to add any companies.
 | ------- | -------- | -------- | ---------- | ------- |
 | Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/ |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
-| Campus Labs | Buffalo | Higher Ed Software | Primarily C#.NET | http://www.campuslabs.com/ |
+| Bak USA | Buffalo | Tablets, Laptops, and Software | Primarily C# .NET | https://www.bakusa.com/careers/ |
+| Campus Labs | Buffalo | Higher Ed Software | Primarily C# .NET | http://www.campuslabs.com/ |
 | Clinical Support Services, Inc. | Buffalo | Health provider software | PHP | http://csshealth.com/ |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | http://liazon.com/ |
@@ -18,7 +19,7 @@ Feel free to submit pull requests to add any companies.
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
-| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | http://www.perkinelmer.com/ |
+| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | http://www.perkinelmer.com/corporate/careers/ |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
