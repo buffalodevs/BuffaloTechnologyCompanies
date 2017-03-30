@@ -8,6 +8,7 @@ Feel free to submit pull requests to add any companies.
 
 | Company | Location | Industry | Tech Stack | Careers |
 | ------- | -------- | -------- | ---------- | ------- |
+| 19 Ideas | Buffalo | Marketing & Communications | .NET | https://19ideas.com/#careers |
 | Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/ |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | Bak USA | Buffalo | Tablets, Laptops, and Software | Primarily C# .NET | https://www.bakusa.com/careers/ |
@@ -15,7 +16,7 @@ Feel free to submit pull requests to add any companies.
 | Clinical Support Services, Inc. | Buffalo | Health provider software | PHP | http://csshealth.com/ |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Delaware North | Buffalo | Hospitality (Professional Sports, Travel, Parks & Resorts) | Python, AWS, Atlassian, Ansible, Chef & More | https://careers.delawarenorth.com |
-| Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | http://liazon.com/ |
+| Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
