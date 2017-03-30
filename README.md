@@ -12,7 +12,7 @@ Feel free to submit pull requests to add any companies.
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | Campus Labs | Buffalo | Higher Ed Software | Primarily C#.NET | |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
-| Liazon | Buffalo | Benefits Broker Software | Primarily C#.NET | | |
+| Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | |
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | |
