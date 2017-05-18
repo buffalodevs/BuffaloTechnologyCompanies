@@ -25,6 +25,7 @@ Feel free to submit pull requests to add any companies.
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | http://www.perkinelmer.com/corporate/careers/ |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
+| Sentient Science | Buffalo | Prognostics for Mechanical Assets | Javascript, Python, Elixir, AWS, Linux | http://sentientscience.com/company/careers/ |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
 | Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
