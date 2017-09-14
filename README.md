@@ -9,7 +9,7 @@ Feel free to submit pull requests to add any companies.
 | Company | Location | Industry | Tech Stack | Careers |
 | ------- | -------- | -------- | ---------- | ------- |
 | 19 Ideas | Buffalo | Marketing & Communications | .NET | https://19ideas.com/#careers |
-| ACV Auctions | Buffalo | Auto Auctions / Cars | Java, Perl, AWS | Infrastructure | https://acvauctions.bamboohr.com/jobs/ |
+| ACV Auctions | Buffalo | Auto Auctions / Cars | Java, Perl, Python, AWS | https://acvauctions.bamboohr.com/jobs/ |
 | Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/ |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | Bak USA | Buffalo | Tablets, Laptops, and Software | Primarily C# .NET | https://www.bakusa.com/work/ |
@@ -26,9 +26,9 @@ Feel free to submit pull requests to add any companies.
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
 | Sentient Science | Buffalo | Prognostics for Mechanical Assets | Javascript, Python, Elixir, AWS, Linux | http://sentientscience.com/company/careers/ |
-| Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
 | Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
+| Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
 | TekSystems | WNY | IT Staffing | Varies | https://www.teksystems.com |
 | Tesla | Buffalo | Manufacturing Execution Systems | C#, ASP.NET MVC, AngularJS  | https://www.tesla.com/careers |
 | Twisted Rope | Buffalo | Agency Work | Javascript, PHP | http://twisted-rope.com/ |
