@@ -36,7 +36,6 @@ Feel free to submit pull requests or open issues to add any companies.
 | Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
-| TekSystems | WNY | IT Staffing | Varies | https://www.teksystems.com |
 | Tesla | Buffalo | Manufacturing Execution Systems | C#, ASP.NET MVC, AngularJS  | https://www.tesla.com/careers |
 | Twisted Rope | Buffalo | Agency Work | Javascript, PHP | http://twisted-rope.com/ |
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | http://public.utilant.com/ |
