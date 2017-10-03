@@ -1,10 +1,10 @@
 # Buffalo New York Technology Companies
 
-An alphabetical list of companies in Buffalo who hire developers and other technical folk.
+An alphabetical list of companies in and around Buffalo who hire developers and other technical folk.
 
 Working remotely is always an option as well, for those companies, check [here](https://github.com/lukasz-madon/awesome-remote-job).
 
-Feel free to submit pull requests to add any companies.
+Feel free to submit pull requests or open issues to add any companies.
 
 | Company | Location | Industry | Tech Stack | Careers |
 | ------- | -------- | -------- | ---------- | ------- |
