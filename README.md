@@ -4,6 +4,8 @@ An alphabetical list of companies in and around Buffalo who hire developers and 
 
 Working remotely is always an option as well, for those companies, check [here](https://github.com/lukasz-madon/awesome-remote-job).
 
+For a list of hiring agencies see [here](Agencies.md).
+
 Feel free to submit pull requests or open issues to add any companies.
 
 | Company | Location | Industry | Tech Stack | Careers |
