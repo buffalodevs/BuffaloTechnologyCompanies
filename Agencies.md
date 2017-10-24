@@ -6,6 +6,7 @@ Feel free to submit pull requests or open issues to add any companies.
 
 | Company | Site |
 | ------- | ------- |
+| AP Professionals | http://approfessionals.com/buffalo/ |
 | Computer Plus Staffing Solutions | http://www.cpstaffing.com/Index.aspx |
 | JMS Technical Solutions | http://jmstechsolutions.com/ |
 | Systems Personnel | http://www.systemspersonnel.com/ |
