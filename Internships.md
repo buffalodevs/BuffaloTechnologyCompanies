@@ -1,6 +1,8 @@
-## Internships or Co-ops
+## Buffalo NY Internships and Co-ops
 
 Alphabetical list of companies which have hired or do hire for local internships or co-ops.
+
+Feel free to submit pull requests for any missing organizations.
 
  - Liazon (Software developers)
  - PerkinElmer (Software developers)
