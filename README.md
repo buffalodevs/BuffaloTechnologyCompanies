@@ -6,6 +6,8 @@ Working remotely is always an option as well, for those companies, check [here](
 
 For a list of hiring agencies see [here](Agencies.md).
 
+Companies that have previously had internships are listed [here](Internships.md).
+
 Feel free to submit pull requests or open issues to add any companies.
 
 | Company | Location | Industry | Tech Stack | Careers |
