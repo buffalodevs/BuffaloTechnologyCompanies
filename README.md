@@ -17,6 +17,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/ |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | Bak USA | Buffalo | Tablets, Laptops, and Software | Primarily C# .NET | https://www.bakusa.com/work/ |
+| BiTS | Buffalo | Medical billing and Transportation Software | C# .NET, Azure | https://www.intelligentbits.com |
 | BlueCross BlueShield of WNY | Buffalo | Health Insurance | C#, .NET, AngularJS, Web | https://www.bcbswny.com/content/WNYcareers.html |
 | Calspan | Niagara Falls, Buffalo | Aerospace, Transportation | Linux, C, C++, MATLAB, Qt, OpenGL, Emedded | http://www.calspan.com/careers/ |
 | Campus Labs | Buffalo | Higher Ed Software | Primarily C# .NET | http://www.campuslabs.com/ |
