@@ -34,6 +34,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
 | PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | http://www.perkinelmer.com/corporate/careers/ |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
+| Praxair | Tonawanda | Industrial | C#, SQL, Angular, .NET | http://www.praxair.com/careers |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
 | Sentient Science | Buffalo | Prognostics for Mechanical Assets | Javascript, Python, Elixir, AWS, Linux | http://sentientscience.com/company/careers/ |
 | Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
