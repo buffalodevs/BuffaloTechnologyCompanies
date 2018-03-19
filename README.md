@@ -41,7 +41,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
 | Tesla | Buffalo | Manufacturing Execution Systems | C#, ASP.NET MVC, AngularJS  | https://www.tesla.com/careers |
-| Torch.io | Buffalo (DIG) | YCombinator backed Leadership coaching platform for high growth, high performance cultures  | Python, React/Redux, AWS, PostgreSQL, Serverless Framework | scott@torch.io |
+| Torch.io | Buffalo (DIG) | YCombinator backed Leadership coaching platform for high growth, high performance cultures  | Python, React/Redux, AWS, PostgreSQL, Serverless Framework | https://torch.io/careers |
 | Twisted Rope | Buffalo | Agency Work | Javascript, PHP | http://twisted-rope.com/ |
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | http://public.utilant.com/ |
 | Value Centric | Orchard Park | Data Management | Primarily ColdFusion | http://www.valuecentric.com/ |
