@@ -32,7 +32,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | Oath / Yahoo | Lockport | Internet/Web Services/Advertising | C++, Java, Perl, Ruby, Python | https://www.oath.com/careers/work-at-oath/ |
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
-| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, & Lagom | http://www.perkinelmer.com/corporate/careers/ |
+| PerkinElmer | Buffalo | Biotech/Pharma | Scala, Spark, AWS Lambda | http://www.perkinelmer.com/corporate/careers/ |
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Praxair | Tonawanda | Industrial | C#, SQL, Angular, .NET | http://www.praxair.com/careers |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
