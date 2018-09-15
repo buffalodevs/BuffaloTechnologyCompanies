@@ -6,7 +6,7 @@ Feel free to submit pull requests or open issues to add or remove any meetups.
 
 | Meetup | Location | Last Active | Social | Notes |
 | ------ | -------- | ----------- | ------- | ----- |
-| [Buffalo Accessibility](https://www.meetup.com/buffa11y/) | Varies | 9/15/18 | | |
+| [Buffalo Accessibility](https://www.meetup.com/buffa11y/) | Varies | 9/15/18 | [@buffa11y](https://twitter.com/BuffA11y) | |
 | [Buffalo Full Stack](https://www.meetup.com/FullStackBuffalo/) | Innovation Ctr - BNMC | 9/15/18 | | |
 | [Buffalo JS](https://www.meetup.com/Buffalojs/) | Varies | 9/15/18 | | |
 | Buffalo Open Coffee | varies | 9/13/18 | [Google Group](https://groups.google.com/forum/#!forum/buffalo-opencoffee-club) | |
