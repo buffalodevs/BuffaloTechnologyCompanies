@@ -38,6 +38,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Pointman | Buffalo | Field Service Apps/ Professional Apps | NodeJS, Angular, .NET | https://pointman.bamboohr.com/jobs/ |
 | Praxair | Tonawanda | Industrial | C#, SQL, Angular, .NET | http://www.praxair.com/careers |
 | Rich Products | Buffalo | Food Manufacturing | SAP, Oracle, .NET, TIBCO | https://careers.rich.com/ |
+| R-T SPecialty / LoVullo | Specialty Insurance | PHP, JavaScript | https://rtspecialty.com/careers/ |
 | Sentient Science | Buffalo | Prognostics for Mechanical Assets | Javascript, Python, Elixir, AWS, Linux | http://sentientscience.com/company/careers/ |
 | Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
