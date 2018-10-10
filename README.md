@@ -27,6 +27,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Delaware North | Buffalo | Hospitality (Professional Sports, Travel, Parks & Resorts) | Python, AWS, Atlassian, Ansible, Chef & More | https://careers.delawarenorth.com |
 | Fidelis Care | Buffalo | Health Insurance | C#, .Net, SQL, Web | https://www.fideliscare.org/Join-Our-Team |
+| HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
 | InterDigital | Buffalo | IoT | JavaScript, Docker, Linux, Azure | http://www.interdigital.com/page/careers |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
