@@ -31,6 +31,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
 | M&T Bank | Buffalo | Banking | C#, .NET, Mobile (iOS) | https://www.mtb.com/careers |
+| Mongoose | Orchard Park | Higher Education | HTML, CSS, JavaScript | https://www.mongooseresearch.com/careers |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | Oath / Yahoo | Lockport | Internet/Web Services/Advertising | C++, Java, Perl, Ruby, Python | https://www.oath.com/careers/work-at-oath/ |
