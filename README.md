@@ -16,7 +16,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | ------- | -------- | -------- | ---------- | ------- |
 | 19 Ideas | Buffalo | Marketing & Communications | .NET | https://19ideas.com/#careers |
 | ACV Auctions | Buffalo | Auto Auctions / Cars | Python, Java, JavaScript, iOS, Android, Perl, Docker/Kubernetes, AWS | https://acvauctions.bamboohr.com/jobs/ |
-| Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/ |
+| Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/careers/join-the-team/ |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | Bak USA | Buffalo | Tablets, Laptops, and Software | Primarily C# .NET | https://www.bakusa.com/work/ |
 | BiTS | Buffalo | Medical billing and Transportation Software | C# .NET, Azure | https://www.intelligentbits.com |
