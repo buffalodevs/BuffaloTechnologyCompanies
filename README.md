@@ -31,6 +31,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | InterDigital | Buffalo | IoT | JavaScript, Docker, Linux, Azure | http://www.interdigital.com/page/careers |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
+| Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
 | M&T Bank | Buffalo | Banking | C#, .NET, Mobile (iOS) | https://www.mtb.com/careers |
 | Mongoose | Orchard Park | Higher Education | HTML, CSS, JavaScript | https://www.mongooseresearch.com/careers |
