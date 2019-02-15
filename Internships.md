@@ -7,6 +7,7 @@ Feel free to submit pull requests for any missing organizations.
  - ACV Auctions (Software developers)
  - Avarint (Software developers)
  - CUBRC (Software developers, Research)
+ - Huron Consulting Group (Software developers)
  - Liazon (Software developers)
  - PerkinElmer (Software developers)
  - Pointman (Software developers)
