@@ -8,6 +8,8 @@ For a list of hiring agencies see [here](Agencies.md).
 
 Companies that have previously had internships are listed [here](Internships.md).
 
+A list of local or nearby conferences can be found [here](Conferences.md).
+
 Finally, you can also find a list of known technology meetups [here](Meetups.md).
 
 Feel free to submit pull requests or open issues to add any companies.
