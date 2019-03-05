@@ -12,3 +12,4 @@ Feel free to submit pull requests for any missing organizations.
  - PerkinElmer (Software developers)
  - Pointman (Software developers)
  - Synacor (Software developers)
+ - [Torch](https://torch.io/careers/engineering) (Software developers, DevOps)
