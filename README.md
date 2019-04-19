@@ -37,6 +37,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
 | M&T Bank | Buffalo | Banking | C#, .NET, Mobile (iOS) | https://www.mtb.com/careers |
+| MBMS | Amherst | Banking | C#, .NET, SQL, JS (Sencha, React), AWS | http://mbms.com/employment.html |
 | Mongoose | Orchard Park | Higher Education | HTML, CSS, JavaScript | https://www.mongooseresearch.com/careers |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
