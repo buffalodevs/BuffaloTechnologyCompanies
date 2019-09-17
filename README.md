@@ -33,6 +33,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
 | InterDigital | Buffalo | IoT | JavaScript, Docker, Linux, Azure | http://www.interdigital.com/page/careers |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
+| LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
