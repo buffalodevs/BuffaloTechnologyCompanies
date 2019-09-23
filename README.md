@@ -60,5 +60,5 @@ Feel free to submit pull requests or open issues to add any companies.
 | Torch | Buffalo | YCombinator backed leadership development platform for high growth, high performance cultures  | Python, React/Redux, AWS, PostgreSQL, Serverless Framework | https://torch.io/careers/engineering |
 | Twisted Rope | Buffalo | Agency Work | Javascript, PHP | http://twisted-rope.com/ |
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | http://public.utilant.com/ |
-| ValueCentric | Orchard Park | Supply Chain Analytics and Data Management | Oracle PL/SQL, ColdFusion (OOP), some React | http://www.valuecentric.com/careers |
+| ValueCentric (an IQVIA Company) | Orchard Park | Supply Chain Analytics and Data Management | Oracle PL/SQL, ColdFusion, React | https://jobs.iqvia.com/en-US/search?keywords=&location=Orchard%20Park,NY |
 | Zappos | Buffalo (DIG) | e-commerce | AWS, Java, Elixir, React | https://buffalo.zappos.biz |
