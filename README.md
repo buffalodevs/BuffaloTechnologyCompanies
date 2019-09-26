@@ -27,7 +27,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Clinical Support Services, Inc. | Buffalo | Health provider software | PHP | http://csshealth.com/ |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Delaware North | Buffalo | Hospitality (Professional Sports, Travel, Parks & Resorts) | Python, AWS, Atlassian, Ansible, Chef & More | https://careers.delawarenorth.com |
-| DevRelate.io | Amherst | Developer and Community Relations as a Service | Ruby, DevOps, PHP, OSS | 
+| DevRelate.io | Amherst | Developer and Community Relations as a Service | Ruby, DevOps, PHP, OSS |
 | EmergenceTek Group | Buffalo | Client Services | Variety, primarily .NET | http://www.emergencetek.com/contact |
 | Fidelis Care | Buffalo | Health Insurance | C#, .Net, SQL, Web | https://www.fideliscare.org/Join-Our-Team |
 | HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
@@ -35,7 +35,6 @@ Feel free to submit pull requests or open issues to add any companies.
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
 | LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
-| LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
 | M&T Bank | Buffalo | Banking | C#, .NET, Mobile (iOS) | https://www.mtb.com/careers |
