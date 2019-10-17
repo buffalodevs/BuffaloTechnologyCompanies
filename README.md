@@ -41,6 +41,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | MBMS | Amherst | Banking | C#, .NET, SQL, JS (Sencha, React), AWS | http://mbms.com/employment.html |
 | Mongoose | Orchard Park | Higher Education | HTML, CSS, JavaScript | https://www.mongooseresearch.com/careers |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
+| Northrop Grumman | Amherst | Aerospace, defense | C, C++, QT, ADA, Java, Javascript, Angular| https://www.northropgrumman.com/Jobs/Buffalo/ |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | Oath / Yahoo | Lockport | Internet/Web Services/Advertising | C++, Java, Perl, Ruby, Python | https://www.oath.com/careers/work-at-oath/ |
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
@@ -59,5 +60,6 @@ Feel free to submit pull requests or open issues to add any companies.
 | Torch | Buffalo | YCombinator backed leadership development platform for high growth, high performance cultures  | Python, React/Redux, AWS, PostgreSQL, Serverless Framework | https://torch.io/careers/engineering |
 | Twisted Rope | Buffalo | Agency Work | Javascript, PHP | http://twisted-rope.com/ |
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | http://public.utilant.com/ |
+| University at Buffalo | Amherst, Buffalo | Education | Perl, Java, Ruby, Python | https://www.ubjobs.buffalo.edu/ |
 | ValueCentric (an IQVIA Company) | Orchard Park | Supply Chain Analytics and Data Management | Oracle PL/SQL, ColdFusion, React | https://jobs.iqvia.com/en-US/search?keywords=&location=Orchard%20Park,NY |
 | Zappos | Buffalo (DIG) | e-commerce | AWS, Java, Elixir, React | https://buffalo.zappos.biz |
