@@ -25,6 +25,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Calspan | Niagara Falls, Buffalo | Aerospace, Transportation | Linux, C, C++, MATLAB, Qt, OpenGL, Emedded | http://www.calspan.com/careers/ |
 | Campus Labs | Buffalo | Higher Ed Software | Primarily C# .NET | http://www.campuslabs.com/ |
 | Clinical Support Services, Inc. | Buffalo | Health provider software | PHP | http://csshealth.com/ |
+| CoachMePlus | Buffalo | Athlete Management, Fitness, Pro Sports & Military | PHP, Symfony, SQL, JS, Polymer, iOS, Android, AWS | https://coachmeplus.com/ |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
 | Delaware North | Buffalo | Hospitality (Professional Sports, Travel, Parks & Resorts) | Python, AWS, Atlassian, Ansible, Chef & More | https://careers.delawarenorth.com |
 | DevRelate.io | Amherst | Developer and Community Relations as a Service | Ruby, DevOps, PHP, OSS |
