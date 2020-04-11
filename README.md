@@ -43,6 +43,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Mongoose | Orchard Park | Higher Education | C#, Angular, Vue, Azure | https://www.mongooseresearch.com/careers |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | Northrop Grumman | Amherst | Aerospace, defense | C, C++, QT, ADA, Java, Javascript, Angular| https://www.northropgrumman.com/Jobs/Buffalo/ |
+| Nota | Buffalo | Financial Services | React, Spring Boot, Docker/Kubernetes, AWS| https://careers.trustnota.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | Oath / Yahoo | Lockport | Internet/Web Services/Advertising | C++, Java, Perl, Ruby, Python | https://www.oath.com/careers/work-at-oath/ |
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
