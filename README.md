@@ -24,6 +24,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | BiTS | Buffalo | Medical billing and Transportation Software | C# .NET, Azure | https://www.intelligentbits.com |
 | BlueCross BlueShield of WNY | Buffalo | Health Insurance | C#, .NET, AngularJS, Web | https://www.bcbswny.com/content/WNYcareers.html |
 | Calspan | Niagara Falls, Buffalo | Aerospace, Transportation | Linux, C, C++, MATLAB, Qt, OpenGL, Emedded | http://www.calspan.com/careers/ |
+| Clinical Clinical | Buffalo, NY |  Clinical Trials, Healthcare Research | React, .NET, MVC/C#, Azure | https://www.circuitclinical.com/ | 
 | Clinical Support Services, Inc. | Buffalo | Health provider software | PHP | http://csshealth.com/ |
 | CoachMePlus | Buffalo | Athlete Management, Fitness, Pro Sports & Military | PHP, Symfony, SQL, JS, Polymer, iOS, Android, AWS | https://coachmeplus.com/ |
 | CUBRC | Cheektowaga | Research, Development, Testing and Systems Integration | Linux, Java | http://www.cubrc.org/index.php/careers |
