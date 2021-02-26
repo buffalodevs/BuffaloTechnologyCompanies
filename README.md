@@ -33,7 +33,6 @@ Feel free to submit pull requests or open issues to add any companies.
 | EmergenceTek Group | Buffalo | Client Services | Variety, primarily .NET | http://www.emergencetek.com/contact |
 | Fidelis Care | Buffalo | Health Insurance | C#, .Net, SQL, Web | https://www.fideliscare.org/Join-Our-Team |
 | HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
-| InterDigital | Buffalo | IoT | JavaScript, Docker, Linux, Azure | http://www.interdigital.com/page/careers |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
 | LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
