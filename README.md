@@ -34,6 +34,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | Fidelis Care | Buffalo | Health Insurance | C#, .Net, SQL, Web | https://www.fideliscare.org/Join-Our-Team |
 | HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
+| Keep Truckin | Amherst & Remote US | Transportation, Physical Industry | Linux, RTOSes, C, Python, SQL, AWS, & More | https://keeptruckin.com/careers |
 | LenderLogix | Buffalo | Mortgage Banking Software | PHP, SQL, Python, AWS | https://lenderlogix.com |
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
