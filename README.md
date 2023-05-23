@@ -54,7 +54,6 @@ Feel free to submit pull requests or open issues to add any companies.
 | Roswell Park | Buffalo | Hospital & Cancer Research | Python, Angular, .Net, HTML, R, & More  | https://www.roswellpark.org/careers |
 | R-T Specialty / LoVullo | Depew | Specialty Insurance | PHP, JavaScript | https://rtspecialty.com/careers/ |
 | Sentient Science | Buffalo | Prognostics for Mechanical Assets | Javascript, Python, Elixir, AWS, Linux | http://sentientscience.com/company/careers/ |
-| Stark & Wayne | Amherst | Cloud Infrastructure<br />Consulting | Cloud Foundry, AWS, Openstack, vSphere, some Go and postgres | beahero@starkandwayne.com |
 | StudioLabs | Buffalo | Agency Work | PHP, Javascript, some .NET | http://studiolabs.com/join |
 | Synacor | Buffalo | ISP Portals, Advertising & Identity Management | Primarily PHP, with Perl, Node, Go & Java | https://www.synacor.com/ |
 | TenEleven Group | East Amherst | Behavioral Health | C#, SQL Server  | https://www.10e11.com/careers |
