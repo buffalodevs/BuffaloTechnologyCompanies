@@ -19,6 +19,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | 19 Ideas | Buffalo | Marketing & Communications | .NET | https://19ideas.com/careers/ |
 | ACV Auctions | Buffalo | Auto Auctions / Cars | C# dotnet core, Python, Java, JavaScript, iOS, Android, Perl, Docker/Kubernetes, AWS | https://acvauctions.bamboohr.com/jobs/ |
 | Adiant | Williamsville | Digital Media/Ad Network | Java & PHP | https://www.adiant.com/careers/join-the-team/ |
+| AMPAworks | Buffalo | Supply Chain/IOT | JavaScript, React, React Native, AWS, Python, C++ | https://www.ampaworks.com/ |
 | Anthology (formerly Campus Labs) | Buffalo | Higher Ed Software | Primarily C# .NET, React, Angular, Azure, SQL | https://www.anthologyinc.com// |
 | Avarint | Cheektowaga | Chemical, Biological & Medical Sciences, C4ISR Modeling & Simulation | Linux, C++ | http://www.avarint.com/careers.html |
 | BiTS | Buffalo | Medical billing and Transportation Software | C# .NET, Azure | https://www.intelligentbits.com |
