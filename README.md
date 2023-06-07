@@ -64,4 +64,5 @@ Feel free to submit pull requests or open issues to add any companies.
 | Utilant | Buffalo | Property Insurance | Primarily C#.NET | http://public.utilant.com/ |
 | University at Buffalo | Amherst, Buffalo | Education | Perl, Java, Ruby, Python | https://www.ubjobs.buffalo.edu/ |
 | ValueCentric (an IQVIA Company) | Orchard Park | Supply Chain Analytics and Data Management | Oracle PL/SQL, ColdFusion, React | https://jobs.iqvia.com/en-US/search?keywords=&location=Orchard%20Park,NY |
+| William S Hein & Co / HeinOnline | Getzville / Buffalo | Legal Publishing | LAMP, Solr, NLP, ML / AI | https://home.heinonline.org/contact/careers/ |
 | Zappos | Buffalo (DIG) | e-commerce | AWS, Java, Elixir, React | https://buffalo.zappos.biz |
