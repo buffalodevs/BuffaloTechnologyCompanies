@@ -40,12 +40,11 @@ Feel free to submit pull requests or open issues to add any companies.
 | Liazon | Buffalo | Benefits Broker Software | C#.NET, AngularJS | http://liazon.com/about-us/careers/ |
 | Life Storage | Williamsville | Self Storage, Real Estate | C#, .NET, SQL, ColdFusion, Web | https://www.lifestorage.com/company/career-opportunities/ |
 | Local Edge | Tonawanda | Advertising | Primarily Java, some .NET | http://localedge.com |
-| M&T Bank | Buffalo | Banking | C#, .NET, Mobile (iOS) | https://www.mtb.com/careers |
+| M&T Bank | Buffalo | Financial Services | Angular, C#, .NET, Mobile (iOS/Android), Docker, Azure | https://www.mtb.com/careers |
 | MBMS | Amherst | Banking | C#, .NET, SQL, JS (Sencha, React), AWS | http://mbms.com/employment.html |
 | Mongoose | Orchard Park | Higher Education | C#, Angular, Vue, Azure | https://www.mongooseresearch.com/careers |
 | Moog Inc | Buffalo | Aerospace, defense, industrial & medical devices | MATLAB, C, Assembly, circuitry  | http://moog.com |
 | Northrop Grumman | Amherst | Aerospace, defense | C, C++, QT, ADA, Java, Javascript, Angular| https://www.northropgrumman.com/Jobs/Buffalo/ |
-| Nota | Buffalo | Financial Services | React, Spring Boot, Golang, Python, Docker/Kubernetes, AWS| https://careers.trustnota.com |
 | NewBird | Buffalo | Agency work | WordPress | https://newbirddesign.com/ |
 | Oath / Yahoo | Lockport | Internet/Web Services/Advertising | C++, Java, Perl, Ruby, Python | https://www.oath.com/careers/work-at-oath/ |
 | PCA Technology Group | Cheektowaga | VoIP, contract IT and agency development | .NET and PHP | http://www.pcatechnologygroup.com |
