@@ -33,6 +33,7 @@ Feel free to submit pull requests or open issues to add any companies.
 | DevRelate.io | Amherst | Developer and Community Relations as a Service | Ruby, DevOps, PHP, OSS |
 | EmergenceTek Group | Buffalo | Client Services | Variety, primarily .NET | http://www.emergencetek.com/contact |
 | Fidelis Care | Buffalo | Health Insurance | C#, .Net, SQL, Web | https://www.fideliscare.org/Join-Our-Team |
+| HelixIntel | Buffalo | Computerized Maintenance Management System | Python, Vue, Kotlin | https://helixintel.com/careers/ |
 | HiOperator | Buffalo | Customer service-as-a-service | React, NodeJS, Serverless, Firebase | http://hioperator.com/jobs |
 | KangarooTime | Buffalo | Childcare Management Software | Ruby on Rails, AWS | https://kangarootime.com/contact.html |
 | Keep Truckin | Amherst & Remote US | Transportation, Physical Industry | Linux, RTOSes, C, Python, SQL, AWS, & More | https://keeptruckin.com/careers |
